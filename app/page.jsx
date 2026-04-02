@@ -1,4 +1,5 @@
 "use client";
+/**
  * MENA Titan — Expert Dashboard
  * Gold & Slate premium theme · Bilingual AR/EN · RTL support
  *
